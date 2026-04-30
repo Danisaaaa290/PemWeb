@@ -1,0 +1,14 @@
+body {
+    font-family: Arial;
+    padding: 20px;
+    background: #f4f4f4;
+}
+
+h1 {
+    color: purple;
+}
+
+input, textarea {
+    width: 300px;
+    padding: 10px;
+}
