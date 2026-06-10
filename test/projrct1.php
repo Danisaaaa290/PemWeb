@@ -38,11 +38,7 @@
             <tr><td>Blueberry Ceramide</td></tr>
             <tr><td>Dengan klaim yang mengandung ceramide dan ekstrak blueberry, produk ini menawarkan berbagai manfaat yang bisa membantu menjaga kesehatan kulit wajah.</td></tr>
             <tr><td>Rp.69.000</td></tr>
-
-        </tr>
-           
-        
-        
+        </tr> 
     </table>
 </body>
 </html>

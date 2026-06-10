@@ -15,12 +15,12 @@
         body {
             font-family: Arial, Helvetica, sans-serif;
             line-height: 1.6;
-            color: #333;
+            color: #ccc784;
             /* background color */
             margin-bottom: 50px;
             margin-top: 70px;
             background: #a3659a;
-            background: linear-gradient(90deg, rgba(42, 121, 155, 1))
+            background: linear-gradient(90deg, rgb(150, 93, 144))
         }
         /* footer style */
         #content {
